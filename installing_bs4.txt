@@ -1,0 +1,14 @@
+Installing Beautiful Soup Library in Windows
+
+Installing Beautiful Soup library in Windows is very simple, especially if you have pip already installed.
+You will have pip pre-installed in your system during Python installation.
+You just need to execute the following steps:
+
+1. Open your Windows Command Line Terminal, cmd.
+2. Type 'pip install beautifulsoup4'.
+
+If you want to use a downloaded package, execute the following steps:
+
+1. Download the Beautiful Soup library package from 'https://sadman-siraj.github.io/bs4.zip'.
+2. Extract the contents of the downloaded zip file.
+3. Copy the extracted contents to the folder where you have the concerned Python script.
